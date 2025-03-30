@@ -1,8 +1,8 @@
 build:
-  version: "2.0"
+  version: "55.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs "
+  message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
